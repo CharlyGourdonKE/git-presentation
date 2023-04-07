@@ -1,14 +1,14 @@
 # Git
 
-1. Introduction to version control system (VCS)
-2. Setting up Git
-3. Basic Git commands
-4. Branching and merging
-5. Collaboration with Git
-6. Advanced Git concepts
-7. Best practices
-8. Troubleshooting
-9. Additional resources
+1. [Introduction to version control system (VCS)](#1-introduction-to-version-control-system-vcs)
+2. [Setting up Git](#2-setting-up-git)
+3. [Basic Git commands](#3-basic-git-commands)
+4. [Branching and merging](#4-branching-and-merging)
+5. [Collaboration with Git](#5-collaborating-with-git)
+6. [Advanced Git concepts](#6-advanced-git-concepts)
+7. [Best practices](#7-best-practices)
+8. [Troubleshooting](#8-troubleshooting)
+9. [Additional resources](#9-additional-resources)
 
 ---
 
