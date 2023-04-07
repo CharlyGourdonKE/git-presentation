@@ -221,3 +221,7 @@ By troubleshooting these common issues, you can ensure that your Git repository 
 5. Git courses: There are many online courses that can teach you Git, such as the ones offered by Udemy, Coursera, and Codecademy. These courses offer structured lessons, hands-on exercises, and quizzes to help you learn Git.
 
 By exploring these additional resources, you can deepen your understanding of Git and become a more proficient Git user.
+
+---
+
+This document was created with the help of ChatGPT.
